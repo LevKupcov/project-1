@@ -26,7 +26,7 @@ Paper 2D для спрайтов и анимаций.
 Логотип "Eternity".
 Кнопки: "Новая игра", "Настройки", "Выход" .
 Фон: Лес, на фоне которого видно плато гор. ![image](https://github.com/user-attachments/assets/606429eb-edb5-49ca-88c1-b57fb9ec8d3f)
-Игровой процес 
+# Игровой процес 
 ![image](https://github.com/user-attachments/assets/de7f3c7e-0177-4f7b-85cb-997439348dd1)
 ![image](https://github.com/user-attachments/assets/45e02c34-78b1-4b7b-a8e1-58b09edb800e)
 ![image](https://github.com/user-attachments/assets/33b04bcb-e0e6-4eb2-a92c-d47d1cafd990)
